@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+body{
+   font-family: 'Roboto', sans-serif;
+   font-weight: 500;
+}
+
+nav.barnav{
+   height: 100px;
+   margin-bottom: 20px;
+   background-color: #ccaedc !important;
+}
+
+div.row{
+   margin-bottom: 15px;
+}
+
+.card{
+   margin:auto;
+}
+
+
+
+
+
+
